@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Unstack Stories</title>
-    <link>https://jijidici.github.io/</link>
-    <description>Recent content on Unstack Stories</description>
+    <title>Tactical on Unstack Stories</title>
+    <link>https://jijidici.github.io/tags/tactical/</link>
+    <description>Recent content in Tactical on Unstack Stories</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 08 May 2018 13:44:15 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 08 May 2018 13:25:57 +0200</lastBuildDate>
     
-	<atom:link href="https://jijidici.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jijidici.github.io/tags/tactical/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>À Propos</title>
-      <link>https://jijidici.github.io/about/</link>
-      <pubDate>Tue, 08 May 2018 13:44:15 +0200</pubDate>
-      
-      <guid>https://jijidici.github.io/about/</guid>
-      <description>Je sais pas s&amp;rsquo;il vous est déjà arrivé d&amp;rsquo;avoir &amp;ldquo;trop de jeux à faire&amp;rdquo; ? C&amp;rsquo;est une constante dans la vie d&amp;rsquo;un joueur, notamment depuis le raz de marée des soldes Steam. Il y a quelques années, j&amp;rsquo;ai commencé à me constituer une collection de jeux &amp;ldquo;semi&amp;rdquo; rétros. Fan de Nintendo et de leurs consoles, j&amp;rsquo;ai acquis de nombreux jeux Gamecube, Wii et Wii U. Avec une collection Steam, la culpabilité de ne pas jouer à tous ses jeux est faible, car bon nombre de joueurs ont déjà abandonné l&amp;rsquo;idée.</description>
-    </item>
     
     <item>
       <title>Fire Emblem : Path of Radiance</title>
