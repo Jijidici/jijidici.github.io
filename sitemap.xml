@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jijidici.github.io/post/killer-is-dead/</loc>
+    <lastmod>2018-06-26T15:48:52+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jijidici.github.io/about/</loc>
     <lastmod>2018-05-08T13:44:15+02:00</lastmod>
   </url>
@@ -14,7 +19,13 @@
   
   <url>
     <loc>https://jijidici.github.io/tags/2000s/</loc>
-    <lastmod>2018-05-08T13:25:57+02:00</lastmod>
+    <lastmod>2018-06-26T15:48:52+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jijidici.github.io/tags/beat-them-all/</loc>
+    <lastmod>2018-06-26T15:48:52+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,14 +47,26 @@
   </url>
   
   <url>
+    <loc>https://jijidici.github.io/categories/pc/</loc>
+    <lastmod>2018-06-26T15:48:52+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jijidici.github.io/post/</loc>
-    <lastmod>2018-05-08T13:25:57+02:00</lastmod>
+    <lastmod>2018-06-26T15:48:52+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jijidici.github.io/tags/rpg/</loc>
     <lastmod>2018-05-08T13:25:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jijidici.github.io/tags/suda51/</loc>
+    <lastmod>2018-06-26T15:48:52+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -55,13 +78,13 @@
   
   <url>
     <loc>https://jijidici.github.io/tags/</loc>
-    <lastmod>2018-05-08T13:25:57+02:00</lastmod>
+    <lastmod>2018-06-26T15:48:52+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jijidici.github.io/</loc>
-    <lastmod>2018-05-08T13:44:15+02:00</lastmod>
+    <lastmod>2018-06-26T15:48:52+02:00</lastmod>
     <priority>0</priority>
   </url>
   
