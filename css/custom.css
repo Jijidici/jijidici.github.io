@@ -18,6 +18,12 @@
 	text-indent: 20px;
 }
 
+.entry-content .warning-box {
+	background-color: #fff4c3;
+	padding: 20px 30px;
+	text-indent: 20px;
+}
+
 #tech-box {
 	font-family: "Courier New";
 	background-color: #4d4d4d;
