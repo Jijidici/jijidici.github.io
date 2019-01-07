@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Narrative-Platformer on Unstack Stories</title>
+    <link>https://jijidici.github.io/tags/narrative-platformer/</link>
+    <description>Recent content in Narrative-Platformer on Unstack Stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 07 Jan 2019 22:52:31 +0100</lastBuildDate>
+    
+	<atom:link href="https://jijidici.github.io/tags/narrative-platformer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gris</title>
+      <link>https://jijidici.github.io/post/gris/</link>
+      <pubDate>Mon, 07 Jan 2019 22:52:31 +0100</pubDate>
+      
+      <guid>https://jijidici.github.io/post/gris/</guid>
+      <description>Révélé en août 2018 par Devolver Digital, GRIS, le premier jeu du studio barcelonais Nomada Studio, n’a pas pu passer inaperçu grâce à un visuel accrocheur, qui en a laissé plus d’un bouche bée. Une direction artistique si forte qu’elle m’a tout de suite donné envie de l’explorer, de me plonger dans ce monde étrange, fait de formes et de couleurs, à la composition quasi divine. Prêt à commencer cette balade onirique, loin d’être “grise” ?</description>
+    </item>
+    
+    <item>
+      <title>Inside</title>
+      <link>https://jijidici.github.io/post/inside/</link>
+      <pubDate>Fri, 09 Nov 2018 12:44:51 +0100</pubDate>
+      
+      <guid>https://jijidici.github.io/post/inside/</guid>
+      <description>&lt;p class=&#34;grey-box&#34;&gt;
+La faute à une Switch envahie par des titres indépendants de qualité, la quête du dépilage est aujourd&#39;hui encore interrompue, au profit du jeu/expérience Inside, le bébé de Playdead, développeur du fameux Limbo. Héritier direct de son prédécesseur, Inside arrivera-t-il à ne pas pâlir face à un milieu indé qui a énormément évolué depuis l’époque de son aîné ?</description>
+    </item>
+    
+  </channel>
+</rss>
