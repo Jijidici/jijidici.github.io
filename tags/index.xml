@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Unstack Stories</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 26 Jun 2018 15:48:52 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 18 Feb 2019 19:32:26 +0100</lastBuildDate>
     
 	<atom:link href="https://jijidici.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>2000s</title>
       <link>https://jijidici.github.io/tags/2000s/</link>
-      <pubDate>Tue, 26 Jun 2018 15:48:52 +0200</pubDate>
+      <pubDate>Mon, 18 Feb 2019 19:32:26 +0100</pubDate>
       
       <guid>https://jijidici.github.io/tags/2000s/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Aventure</title>
       <link>https://jijidici.github.io/tags/aventure/</link>
-      <pubDate>Sat, 05 Jan 2019 11:33:57 +0100</pubDate>
+      <pubDate>Mon, 18 Feb 2019 19:32:26 +0100</pubDate>
       
       <guid>https://jijidici.github.io/tags/aventure/</guid>
       <description></description>
@@ -75,15 +75,6 @@
     </item>
     
     <item>
-      <title>Narratif</title>
-      <link>https://jijidici.github.io/tags/narratif/</link>
-      <pubDate>Fri, 04 Jan 2019 14:15:44 +0100</pubDate>
-      
-      <guid>https://jijidici.github.io/tags/narratif/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Narrative-Platformer</title>
       <link>https://jijidici.github.io/tags/narrative-platformer/</link>
       <pubDate>Mon, 07 Jan 2019 22:52:31 +0100</pubDate>
@@ -98,6 +89,24 @@
       <pubDate>Sat, 05 Jan 2019 11:33:57 +0100</pubDate>
       
       <guid>https://jijidici.github.io/tags/nintendo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Platformer</title>
+      <link>https://jijidici.github.io/tags/platformer/</link>
+      <pubDate>Mon, 18 Feb 2019 19:32:26 +0100</pubDate>
+      
+      <guid>https://jijidici.github.io/tags/platformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Point&amp;Click&#34;</title>
+      <link>https://jijidici.github.io/tags/pointclick/</link>
+      <pubDate>Mon, 18 Feb 2019 19:32:26 +0100</pubDate>
+      
+      <guid>https://jijidici.github.io/tags/pointclick/</guid>
       <description></description>
     </item>
     
